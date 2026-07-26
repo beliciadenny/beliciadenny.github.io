@@ -1,105 +1,120 @@
-# Belicia Denny - Data & Analytics Portfolio
+# Belicia Denny | Personal Portfolio Website
 
-Welcome to my Data & Analytics Portfolio.
+Welcome to my personal portfolio website.
 
-I build intelligent data solutions that help organizations improve data quality, uncover meaningful insights, and make informed business decisions. My work combines analytics, machine learning, business intelligence, and data visualization to solve real-world problems.
+This website serves as a central hub showcasing my work in **Data & Analytics** and **Python + AI Applications**. It includes two specialized portfolios, allowing recruiters and visitors to explore projects relevant to different technology domains.
 
----
+## 🌐 Website
 
-# About Me
-
-I'm a Computer Science graduate passionate about transforming raw data into actionable insights.
-
-My experience spans data profiling, exploratory data analysis, machine learning, business intelligence, dashboard development, and data quality improvement. I enjoy building solutions that automate data analysis, identify hidden patterns, and support better decision-making.
+**Home:**
+https://beliciadenny.github.io/
 
 ---
 
-# 🚀 Featured Projects
+## 📂 Portfolio Sections
 
-## ⭐ AI Data Quality Guardian
+### 📊 Data & Analytics
 
-An AI-powered data quality platform that automatically profiles datasets, detects missing values, duplicates, inconsistencies, and anomalies, calculates quality metrics, and generates intelligent recommendations for improving data reliability.
+Explore projects focused on:
 
-**Technologies**
+* Data Analytics
+* Business Intelligence
+* Power BI Dashboards
+* SQL
+* Machine Learning
+* Data Quality
+* Predictive Analytics
 
-Python • SQL • Pandas • Power BI • FastAPI
+Portfolio:
 
----
-
-## 📊 Remote Workforce Analytics Dashboard
-
-Developed an interactive Power BI dashboard to analyze remote, hybrid, and on-site workforce trends, helping visualize productivity, employee satisfaction, and key business KPIs for data-driven decision-making.
-
----
-
-## 🔍 Dark Pattern Detection
-
-Designed an NLP-based analytics solution to identify deceptive UI patterns in e-commerce websites, map findings to EU DSA and FTC regulations, and visualize insights using Power BI dashboards.
+https://beliciadenny.github.io/data-analytics/
 
 ---
 
-## 📝 Fake Review Detection
+### 🤖 Python & AI Applications
 
-Built a machine learning solution that identifies fraudulent online reviews using Natural Language Processing and classification techniques to improve trust and reliability on digital platforms.
+Explore projects focused on:
+
+* Python Development
+* FastAPI
+* AI Applications
+* LLM Integration
+* LangChain
+* RAG Systems
+* Full-Stack AI Solutions
+
+Portfolio:
+
+https://beliciadenny.github.io/python-ai/
 
 ---
 
-## 💳 Online Payment Fraud Detection
+## 🚀 Featured Projects
 
-Developed a machine learning model to detect fraudulent financial transactions using behavioral patterns and transaction features to improve fraud prevention.
+* AI Data Quality Guardian
+* Enterprise AI Documentation Assistant
+* Remote Workforce Analytics Dashboard
+* Dark Pattern Detection
+* Fake Review Detection
+* Online Payment Fraud Detection
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠 Technologies
 
-### Programming & Query Languages
+### Languages
 
 * Python
 * SQL
+* TypeScript
+* JavaScript
 
-### Data Analysis
+### AI & Machine Learning
 
-* Pandas
-* NumPy
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Cleaning
-
-### Business Intelligence
-
-* Power BI
-* DAX
-* Power Query
-* Excel
-* Tableau
-
-### Machine Learning
-
+* LangChain
+* FAISS
+* Ollama
 * Scikit-learn
 * NLP
-* Classification Models
-* Feature Engineering
-* Model Evaluation
 
-### Data Quality
+### Data & Analytics
 
-* Data Profiling
-* Data Validation
-* Missing Value Analysis
-* Duplicate Detection
-* Outlier Detection
+* Power BI
+* Excel
+* Pandas
+* NumPy
+* DAX
+* Power Query
+
+### Backend
+
+* FastAPI
+* REST APIs
+
+### Frontend
+
+* React
+* HTML
+* CSS
 
 ### Tools
 
+* Docker
 * Git
 * GitHub
-* Jupyter Notebook
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-* LinkedIn: https://linkedin.com/in/belicia-denny
-* GitHub: https://github.com/beliciadenny
-* Email: [beliciadenny@gmail.com](mailto:beliciadenny@gmail.com)
+**LinkedIn**
 
+https://linkedin.com/in/belicia-denny
+
+**GitHub**
+
+https://github.com/beliciadenny
+
+**Email**
+
+[beliciadenny@gmail.com](mailto:beliciadenny@gmail.com)
