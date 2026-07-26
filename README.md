@@ -1,32 +1,105 @@
-# Belicia Denny - Data Analysis Portfolio
+# Belicia Denny - Data & Analytics Portfolio
 
-Welcome to my data analysis portfolio! This website showcases my projects, skills, and experience in transforming data into meaningful insights using modern analytical tools and techniques.
+Welcome to my Data & Analytics Portfolio.
 
-## About Me
+I build intelligent data solutions that help organizations improve data quality, uncover meaningful insights, and make informed business decisions. My work combines analytics, machine learning, business intelligence, and data visualization to solve real-world problems.
 
-I am a Computer Science graduate with a strong interest in data analysis, machine learning, and visualization. I enjoy working with data to uncover patterns, build predictive models, and present insights through interactive dashboards.
+---
 
-## 🚀 Projects
+# About Me
 
+I'm a Computer Science graduate passionate about transforming raw data into actionable insights.
 
-### Dark Pattern Detection
-Developed a machine learning–based system to detect and classify dark patterns in e-commerce websites using NLP techniques. The solution maps findings to EU DSA and FTC regulations and visualizes insights through a Power BI dashboard.
+My experience spans data profiling, exploratory data analysis, machine learning, business intelligence, dashboard development, and data quality improvement. I enjoy building solutions that automate data analysis, identify hidden patterns, and support better decision-making.
 
-### Fake Review Detector
-Built a model to identify fraudulent reviews using NLP and classification techniques, helping improve trust and reliability in online platforms.
+---
 
-### Online Payment Fraud Detection
-Designed a machine learning model to detect fraudulent transactions by analyzing patterns in financial data and user behavior.
+# 🚀 Featured Projects
 
-### Remote Work Analysis
-Analyzed remote work trends using data visualization tools to identify productivity patterns, employee preferences, and key insights.
+## ⭐ AI Data Quality Guardian
 
+An AI-powered data quality platform that automatically profiles datasets, detects missing values, duplicates, inconsistencies, and anomalies, calculates quality metrics, and generates intelligent recommendations for improving data reliability.
 
-## 🛠️ Skills
+**Technologies**
 
--Data Visualization: Power BI, Tableau, Matplotlib
--Data Analysis: Python (Pandas, NumPy), SQL, Excel
--Machine Learning: Scikit-learn, NLP, Classification Models
--Data Modeling: Power Query, DAX, Data Cleaning
--Tools & Technologies: GitHub, Firebase, Jupyter Notebook
+Python • SQL • Pandas • Power BI • FastAPI
+
+---
+
+## 📊 Remote Workforce Analytics Dashboard
+
+Developed an interactive Power BI dashboard to analyze remote, hybrid, and on-site workforce trends, helping visualize productivity, employee satisfaction, and key business KPIs for data-driven decision-making.
+
+---
+
+## 🔍 Dark Pattern Detection
+
+Designed an NLP-based analytics solution to identify deceptive UI patterns in e-commerce websites, map findings to EU DSA and FTC regulations, and visualize insights using Power BI dashboards.
+
+---
+
+## 📝 Fake Review Detection
+
+Built a machine learning solution that identifies fraudulent online reviews using Natural Language Processing and classification techniques to improve trust and reliability on digital platforms.
+
+---
+
+## 💳 Online Payment Fraud Detection
+
+Developed a machine learning model to detect fraudulent financial transactions using behavioral patterns and transaction features to improve fraud prevention.
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming & Query Languages
+
+* Python
+* SQL
+
+### Data Analysis
+
+* Pandas
+* NumPy
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Data Cleaning
+
+### Business Intelligence
+
+* Power BI
+* DAX
+* Power Query
+* Excel
+* Tableau
+
+### Machine Learning
+
+* Scikit-learn
+* NLP
+* Classification Models
+* Feature Engineering
+* Model Evaluation
+
+### Data Quality
+
+* Data Profiling
+* Data Validation
+* Missing Value Analysis
+* Duplicate Detection
+* Outlier Detection
+
+### Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/belicia-denny
+* GitHub: https://github.com/beliciadenny
+* Email: [beliciadenny@gmail.com](mailto:beliciadenny@gmail.com)
 
