@@ -1305,3 +1305,48 @@ SCROLL ANIMATION
     transform:translateY(0);
 
 }
+/*=========================================
+BACK TO TOP
+=========================================*/
+
+#topBtn{
+
+    position:fixed;
+
+    bottom:35px;
+
+    right:35px;
+
+    width:52px;
+
+    height:52px;
+
+    border:none;
+
+    border-radius:50%;
+
+    background:var(--primary);
+
+    color:white;
+
+    font-size:18px;
+
+    cursor:pointer;
+
+    display:none;
+
+    box-shadow:var(--shadow);
+
+    transition:.3s;
+
+    z-index:999;
+
+}
+
+#topBtn:hover{
+
+    background:var(--primary-dark);
+
+    transform:translateY(-4px);
+
+}
