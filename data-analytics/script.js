@@ -55,3 +55,30 @@ window.addEventListener("scroll",()=>{
     });
 
 });
+// ==========================================
+// Reveal Sections on Scroll
+// ==========================================
+
+const reveals=document.querySelectorAll(".reveal");
+
+function revealSections(){
+
+    reveals.forEach(section=>{
+
+        const windowHeight=window.innerHeight;
+
+        const revealTop=section.getBoundingClientRect().top;
+
+        if(revealTop<windowHeight-120){
+
+            section.classList.add("active");
+
+        }
+
+    });
+
+}
+
+window.addEventListener("scroll",revealSections);
+
+revealSections();
