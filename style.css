@@ -1463,3 +1463,88 @@ BACK TO TOP
     font-size:.95rem;
 
 }
+/* ================= FOOTER ================= */
+
+footer{
+
+    background:#111827;
+
+    color:#fff;
+
+    text-align:center;
+
+    padding:70px 0 35px;
+
+}
+
+.footer-content h3{
+
+    font-size:2rem;
+
+    margin-bottom:10px;
+
+}
+
+.footer-content>p{
+
+    color:#cbd5e1;
+
+}
+
+.footer-links{
+
+    margin:35px 0;
+
+}
+
+.footer-links a{
+
+    color:#fff;
+
+    text-decoration:none;
+
+    margin:0 18px;
+
+    transition:.3s;
+
+}
+
+.footer-links a:hover{
+
+    color:#818cf8;
+
+}
+
+.footer-social{
+
+    margin-bottom:30px;
+
+}
+
+.footer-social a{
+
+    color:#fff;
+
+    font-size:24px;
+
+    margin:0 15px;
+
+    transition:.3s;
+
+}
+
+.footer-social a:hover{
+
+    color:#818cf8;
+
+}
+
+.copyright{
+
+    margin-top:25px;
+
+    color:#94a3b8;
+
+    font-size:.9rem;
+
+}
