@@ -342,7 +342,17 @@ section{
     box-shadow:var(--shadow);
 
 }
+.hero-text{
 
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    text-align:center;
+
+}
 /*==================================================
   BUTTONS
 ==================================================*/
@@ -355,11 +365,11 @@ section{
 
     align-items:center;
 
-    gap:20px;
-
     flex-wrap:wrap;
 
-    margin:40px 0;
+    gap:20px;
+
+    margin-top:35px;
 
 }
 
