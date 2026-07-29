@@ -563,7 +563,29 @@ section{
     color:var(--text-light);
 
 }
+.about-image{
 
+    display:flex;
+
+    justify-content:center;
+
+    align-items:flex-start;
+
+}
+
+.about-image img{
+
+    width:280px;
+
+    max-width:100%;
+
+    border-radius:18px;
+
+    object-fit:cover;
+
+    box-shadow:var(--shadow);
+
+}
 .about-highlights{
 
     display:grid;
