@@ -480,6 +480,16 @@ section{
 
 }
 
+.about-note{
+
+    margin-top:18px;
+
+    font-style:italic;
+
+    color:var(--text-light);
+
+}
+
 .about-highlights{
 
     display:grid;
