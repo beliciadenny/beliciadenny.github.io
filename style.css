@@ -381,9 +381,15 @@ section{
 
     justify-content:center;
 
+    gap:10px;
+
     min-width:250px;
 
     padding:15px 28px;
+
+    background:var(--primary);
+
+    color:#fff;
 
     border-radius:var(--radius-sm);
 
@@ -393,11 +399,11 @@ section{
 
 }
 
-.btn:hover{
+.btn-primary:hover{
 
     background:var(--primary-dark);
 
-    transform:translateY(-2px);
+    transform:translateY(-3px);
 
 }
 
@@ -409,11 +415,19 @@ section{
 
     justify-content:center;
 
+    gap:10px;
+
     min-width:250px;
 
     padding:15px 28px;
 
+    border:2px solid var(--primary);
+
+    color:var(--primary);
+
     border-radius:var(--radius-sm);
+
+    font-weight:600;
 
     transition:var(--transition);
 
@@ -423,7 +437,46 @@ section{
 
     background:var(--primary);
 
-    color:white;
+    color:#fff;
+
+    transform:translateY(-3px);
+
+}
+/*==================================================
+  PORTFOLIO SELECTOR
+==================================================*/
+
+.portfolio-selector{
+
+    margin-top:45px;
+
+    padding:30px;
+
+    background:rgba(255,255,255,.9);
+
+    border:1px solid var(--border);
+
+    border-radius:var(--radius);
+
+    box-shadow:var(--shadow);
+
+    max-width:650px;
+
+    margin-left:auto;
+
+    margin-right:auto;
+
+}
+
+.portfolio-selector h3{
+
+    margin-bottom:25px;
+
+    font-size:1.2rem;
+
+    color:var(--secondary);
+
+    font-weight:600;
 
 }
 
